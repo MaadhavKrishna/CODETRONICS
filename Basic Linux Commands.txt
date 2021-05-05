@@ -1,0 +1,10 @@
+ls
+cd ..
+cd <file_name>
+cp
+rm
+clear
+cat, shottell(for install:"$ sudo apt-get update","$ sudo apt-get install shotwell")
+ip addr (ip -4 addr, ip -6 addr)
+zip -r <zip_file_name> <folder_name1> <folder_name2>........(for install:"$ sudo apt install zip")
+unzip <zip_file_name>(for install:"$sudo apt install unzip")
