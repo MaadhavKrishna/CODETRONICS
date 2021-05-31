@@ -1,0 +1,8 @@
+useradd <username>
+userdel <username>
+su <username>
+passwd <username>
+cat /etc/passwd
+usermod -aG sudo <username>
+netstat
+history
